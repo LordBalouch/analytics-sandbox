@@ -1,2 +1,3 @@
 # analytics-sandbox
-Jupiter notebook projects using Github
+Jupyter notebook projects using Github
+
